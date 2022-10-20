@@ -1,7 +1,8 @@
 remote_theme: abhinavs/moonwalk
 
-#theme: moonwalk # if you are using GitHub Pages, change it to remote_theme: abhinavs/moonwalk
-remote_theme: abhinavs/moonwalk
+title: Him and Her
+author: Shenuja Subhash
+url: https://shenuja.github.io/himandher
 
 theme_config:
   appearance: "auto" # can be "light", "dark" or "auto"
