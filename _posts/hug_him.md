@@ -1,5 +1,9 @@
-[<<  Back to Index](index.md)
+---
 
+layout: post
+author: Subhash Gopalakrishnan
+
+---
 
 ### Episode 7 - Him
 
@@ -15,8 +19,6 @@ _~ Him_
 
 #### [Episode 7 - Her](hug_her.md)
 
-
 [<< Previous](magic_carpet.md)                 [>>Next](hug_her.md)
-
 
 _© 2019 Subhash G_

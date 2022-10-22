@@ -1,7 +1,10 @@
-  [<<  Back to Index](index.md)
+---
+layout: post
+author: Subhash Gopalakrishnan
+
+---
 
 ### Episode 10 - Him and her (and another him :-)
-
 
 He woke with a start but didn't know what had woken him up. It was just before midnight and she seemed fast asleep. He didn't feel that he could go back to sleep just then so he decided to make yet another trip to the NICU. He closed the door slowly, taking care not to wake her up. The corridor was faintly lit and smelt of moist phenyl. He had heard others complaining of hospital stays but he didn't find it very disagreeable. The room was minimalistic and always kept clean. People usually spoke in gentle whispers and there was no screaming noise from TV or music players. Hospitals were saner than home.
 
@@ -18,10 +21,5 @@ One session didn't seem to be enough and soon enough, they were alternating betw
 He asked the nurse if he could take a quick peek at his child. She reluctantly agreed. He stepped into the room where two or three babies were sleeping, only his under a string white lamp. His baby was lying face down with both legs tucked in. He seemed so diminutive and helpless. The baby's anus was clearly visible and looked like a puckered flower to him. That made him sad and he somehow felt like he had failed in his duty to protect something so delicate and pristine. Until then, he had wanted many children but the one week they spent nursing their only child for a simple illness made him decide that he would be the only one.
 
 ~ Him
-
-
-
-
-
 
 _© 2019 Subhash G_

@@ -1,5 +1,11 @@
-[<<  Back to Index](index.md)
 
+
+---
+
+layout: post
+author: Subhash Gopalakrishnan
+
+---
 
 ### Episode 5 By her
 
@@ -14,8 +20,6 @@ Next day she went and told him YES, but added that she reserved the right to cha
 
 _~Her_
 
-
 [<< Previous](proposal2_her.md)                 [>>Next](trek_him.md)
-
 
 _© 2019 Shenuja Subhash_

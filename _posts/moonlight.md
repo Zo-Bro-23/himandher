@@ -1,3 +1,10 @@
+---
+
+layout: post
+author: Subhash Gopalakrishnan
+
+---
+
 I eased my car right into the gate into the one available space inside. Even the change in my steering was so smooth that the car seemed to just fall into a slot. As the engine's sound drained away, a piano tune came wafting through the dark patio. As if on cue, I closed my eyes in pure happiness and promptly fell out of space-time.
 
 We often underestimate how much state we carry within us. That thing we call consciousness is a state vector answering so many myriad questions - Who am I? Where did I park my car? Am I married? Why am I happy just now? What happened when I was 22 years old and felt lost. There are moments when life falls into a slot and you fall out of life.
@@ -10,12 +17,6 @@ I spot the moon above the house. It is unshapely, an irregular blotch in a grey 
 
 The piano is still playing. It's a peppy song. The moon shines on. I feel happy, for no reason. I know that's the best kind. I am happy to wait, happy in this slot where space and time have no meaning. Where life pauses, so that you can look at you. 
 
-
 _~ Him_
-
-
-
-
-
 
 _© 2019 Subhash G_

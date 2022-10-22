@@ -1,11 +1,9 @@
-   [<<  Back to Index](index.md)
+---
 
+layout: post
+author: Subhash Gopalakrishnan
 
-
-They set out: for once, the two of them truly free<br/>
-To the craggy cliffs jutting out into the English sea<br/>
-With freshly minted confidence, a new He<br/>
-With a dreamy, resplendent She<br/>
+---
 
 They would walk for miles, till the sky turned red, and then grey<br/>
 Hand in hand, step with step, the two of them fully present<br/>
@@ -33,8 +31,5 @@ When they were mindful, they revelled in her generosity<br/>
 And when they weren't, lost sight of the beauty in their rifts<br/>
 
 ~ Him
-
-
-
 
 _© 2019 Subhash G_

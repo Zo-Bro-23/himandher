@@ -1,8 +1,11 @@
-[<<  Back to Index](index.md)
+---
 
+layout: post
+author: Subhash Gopalakrishnan
+
+---
 
 ## Him and her - Episode 9
-
 
 He was not sure if he should bother with Venice at all. It was out of the way and  seemed like a tourist trap with its cheesy gondolas and little else. But a wise old man told him "Venice is hyped a lot and yet remains under-hyped." So, he set about planning an elaborate train trip from Lausanne to Venezia Santa Lucia with a brief stop in Milan. It was summer and all the good B&Bs were booked. He managed to find a decent place which was slightly out of the way but had good reviews. In Venice, being out of the way meant just one thing - away from the main canal. This prevented one from using the Vaporetto - or water bus which ran only in the main canal and instead rely on private taxis.
 
@@ -19,9 +22,5 @@ They managed to try out the gelatos and canollis that Venice was popular for and
 The next morning, he decided to play it safe and called for a water-taxi. She had been consoled now with the promise that Venice was going to be here with all the Gondolas until they could visit her again in the near future. The train took them on for the next adventure awaiting them. 
 
 _~ Him_
-
-
-
-
 
 _© 2019 Subhash G_

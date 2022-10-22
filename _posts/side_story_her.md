@@ -1,10 +1,11 @@
+---
 
+layout: post
+author: Subhash Gopalakrishnan
 
-[<<  Back to Index](index.md)
-
+---
 
 ### A Side Story
-
 
 "Do you know for sure if he is available? Why I am asking again and again is because I am the one who introduced him to my friend, and I don't want to be responsible for breaking her heart." Surabhi's voice woke her up from her reverie.
 
@@ -46,11 +47,5 @@ She hoped that their sons had the same answer - "Oh, you haven't loved at all! I
 _~Her_
 
 [<< Previous](proposal_her.md)                 [>>Next](proposal2_her.md)
-
-
-
-
-
-
 
 _© 2019 Shenuja Subhash_

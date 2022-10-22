@@ -1,6 +1,9 @@
+---
 
-[<<  Back to Index](index.md)
+layout: post
+author: Subhash Gopalakrishnan
 
+---
 
 ### Magic Carpet Ride
 
@@ -49,7 +52,6 @@ For you and me<br/>
 
 .."
 
-
 When Aladdin asked Jasmin, "Do you trust me?" and helped her on to the magic carpet, did she know that the ride would change her life forever? That, like a shooting star she cannot go back to where she used to be? 
 
 She did not know about the song, back then. But the question "Tell me Princess, now, when did you last let your heart decide?" was familiar. He was the only one who asked her that (not so much in the same words) At that time it had made her uncomfortable. After all, her life was going exactly as planned and she did not like bumpy rides.
@@ -75,7 +77,6 @@ From Giant's Causeway to Lockness to London to Paris to New York, to Chennai Mar
 A hundred thousand things to see (hold your breath, it gets better)
 
 She just has to tell him where to go. He would take her there. Even if they didn't reach, it would still be a thrilling chase and a wondrous ride.
-
 
 _~ Her_
 

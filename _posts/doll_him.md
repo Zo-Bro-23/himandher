@@ -1,12 +1,13 @@
+---
 
-   [<<  Back to Index](index.md)
+layout: post
+author: Subhash Gopalakrishnan
+
+---
 
 ## Him and her - Episode 3
 
 ### Him
-
-
-
 
 Bangalore was his first city. He had grown up in a small town and went to college in a smaller town. He hadn't missed much because large Indian cities were hot, humid and crowded. But Bangalore was different in clime and character. The sun shone milder, the wind was cooler and the citizenry was mostly retired. The city had just seen an influx of a young population, the foot-soldiers of what was termed an IT revolution. These hordes descended upon MG road and Brigade road on friday nights to laugh at everything and buy nothing in particular. The demographics even affected the pavements. While in other cities, the pavements of crowded streets are reserved for plastic kitchenware and cheap underwear, Bangalore footpaths sold quirky tshirts, trendy sunglasses and cheap prints of the popular novels. Just before Valentine's day, street vendors would hold out buckets of red roses.
 
@@ -18,10 +19,7 @@ She kept lamenting the fact that she had gotten over her inhibitions about ridin
 
 _~Him_
 
-
 ### [Episode 3 By her](doll_her.md)
-
-
 
 [<< Previous](him_2.md)                 [>>Next](doll_her.md)
 

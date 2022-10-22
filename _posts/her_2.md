@@ -1,13 +1,13 @@
-   
+---
 
+layout: post
+author: Subhash Gopalakrishnan
 
-[<<  Back to Index](index.md)
+---
 
 ## Him and her - Episode 2
 
 ### Episode 2 - Her
-
-
 
 _2nd March 2002_
 

@@ -1,5 +1,9 @@
-[<<  Back to Index](index.md)
+---
 
+layout: post
+author: Subhash Gopalakrishnan
+
+---
 
 ### Episode 3 [By him](doll_him.md)
 
@@ -25,14 +29,10 @@ That doll, her chimbi paava, has changed many homes since then. It used to be wi
 
 The leggy doll lives with them to this day, watching over them like a guardian angel ..her wide smile, intact! 
 
-
 ~Her
 
 [<< Previous](doll_him.md)                 [>>Next](her_4.md)
 
 ![Image of Chimbi paava](chimbi2.jpeg)
-
-
-
 
 _© 2019 Shenuja Subhash_

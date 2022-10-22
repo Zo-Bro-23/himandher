@@ -1,7 +1,9 @@
-  [<<  Back to Index](index.md)
+---
 
+layout: post
+author: Subhash Gopalakrishnan
 
-### The Sacred Thread! 
+### The Sacred Thread!
 
 She had been worried about him ever since he confided to her about his mother's death when he was a child. He was reluctant to discuss it but she believed that the childhood trauma was still within him and desperately wanted release for him. He was not yet seeing things clearly and would get annoyed at her insistence, claiming that it was strictly in the past and that he had forgotten all about it. He did have a vague intention of starting an annual ritual on his mother's death anniversary but wasn't sure how to go about it. Brahmin rituals were esoteric and required guidance from a qualified priest of sorts. She insisted that he set about finding one.
 
@@ -12,10 +14,5 @@ The vadhyar turned out to be an old man. Just from his voice over the phone, he 
 He was left all alone with his rage which refused to burn down within him. He felt helpless because he had put himself at their mercy. He even felt unreasonably angry at her for insisting that he take this path. There seemed to be nobody at whom he could actively direct his anger and disgust. He had never been a supporter of the caste system or it's inhuman beliefs. He had merely wanted to uphold a vague sense of heritage and now he was sure he wanted no part of it. Then, what remained was only the sign of centuries of entitlement and oppression against fellow-beings - his poonool. He had obviously decided to give it up, but not just in a quiet act of relinquishing it. He wanted to make it an expression of his personal angst and protest against the vile system and its propagators. He went to the toilet, dropped the holy thread and flushed it. The irony of the holy symbol of caste meeting its very notion of impurity was not lost on him. 
 
 _~ Him_
-
-
-
-
-
 
 _© 2019 Subhash G_

@@ -1,8 +1,9 @@
-[<<  Back to Index](index.md)
+---
 
+layout: post
+author: Subhash Gopalakrishnan
 
-#### [Episode 7 - Him](hug_him.md)
-
+---
 
 ### Episode 7 - Her
 
@@ -14,11 +15,7 @@ She remembered the first time when she realized that as long as he was there, ev
 
 She later read in "Gone with the wind" about a recurring dream the heroine had - about her climbing a hill, panicking. The climb seemed endless.... In the end, the dream changed into her running into her beloved's arms and after that there was no uphill - It was bliss from there. That was more or less what she felt, what she still feels, in his arms.
 
-
 _~Her_
-
-
-
 
 [<< Previous](hug_him.md)                 [>>Next](tiffs_him.md)
 

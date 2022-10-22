@@ -1,9 +1,11 @@
+---
 
-[<<  Back to Index](index.md)
+layout: post
+author: Subhash Gopalakrishnan
 
+---
 
 ### The Proposal
-
 
 27 March 2002. 
 She got up with all the excitement of a child on her birthday. She was going to be 22! The house in Bangalore that she shared with her seniors from college, was busily engaged in the morning rituals to leave for office. Today she wanted to get up early,  go to the office early, so that she could savor more of the day. To add to her excitement, she was going home to Kochi in the evening for an extended weekend. 
@@ -36,7 +38,6 @@ Aries female. Like Scarlett, the Aries girl will gather every available male for
 
 She was impressed then - for he had absolutely no clue about sun signs or Linda Goodman .. and she was Aries! But right now, he was clearly mocking at the huge red cards at her desk.
 
-
 During coffee, they discussed the aftermath of his visit and she said that the girls were already emailing her names for the gorilla. He asked "so what have you decided to name it?'' The Scarlett O Hara remark was still in her mind so she said  "I am going to name him "Rhett", and I am going to ignore all other boys and love ONLY him for the rest of my life." He seemed amused. 
 
 He asked her if he could come with her in the auto to the bus stop, and she happily agreed. Her day had started with her thinking only about herself and her birthday, but by the time it ended she could think only about him. When she went home she talked to her parents about him, that she's afraid that she liked him.. If it was ever possible to think of marrying him. 
@@ -51,7 +52,6 @@ She resolved that she was never going to tell him about the conversation she had
 She thought that she'd forget about all this, and take life one day at a time. But ever since Rhett came into her life, she was finding it difficult to ignore him. He was standing out there, like Rhett in the Archies shop, bigger than the place that would contain him.  If someone asked her if she found him cute, she was not even sure. But she was sure of one thing - it was impossible to see anyone or anything else as long as he was there! 
 
 _~Her_
-
 
 #### [The Proposal - 2](proposal2_her.md)
 

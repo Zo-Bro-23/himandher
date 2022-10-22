@@ -1,5 +1,9 @@
-[<<  Back to Index](index.md)
+---
 
+layout: post
+author: Subhash Gopalakrishnan
+
+---
 
 ### Episode 6 [By him](trek_him.md)
 
@@ -15,10 +19,8 @@ She was confused. Why didn't anyone enjoy this place. She tried walking backward
 
 It was tiring, but totally worth it... At the top, it was her own small world of people and the view. She was sitting with him quietly at the top, with the wind and the quiet and the rest of the world not able to affect them..Life should be like this, she thought. On the way back, it got dark and late sooner than they expected. His friend and his girl friend were taking turns on their bike, but he seemed really tired and moody. She wished she could drive the bike to alleviate his trouble a bit. But once they reached the lighted city back he seemed to be back in his spirits and they called it off as a wonderful day. They would go on many more trips like this, which would be teasers into the bigger adventures they would have, in life.
 
-
 _~Her_
 
 [<< Previous](trek_him.md)                 [>>Next](magic_carpet.md)
-
 
 _© 2019 Shenuja Subhash_

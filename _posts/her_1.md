@@ -1,8 +1,11 @@
-[<<  Back to Index](index.md)
+---
 
+layout: post
+author: Subhash Gopalakrishnan
+
+---
 
 ### Him and Her - Episode 1
-
 
 She didn't have an elder brother. Ever since she read Little Women, she had wanted to have a friend like what Laurie was to Jo. Then she met him, after her college, at her first job.They were in the same team, but she was the only girl in the team. When she arrived she had to quickly make friends with someone to have coffee and lunch with. (Not sure if this was her own specific need or the general need of the female species). She chose him, since he seemed like one of those who were comfortable with his masculinity without having to flash it out. He did not intimidate her by paying her too much attention. Also, that he was not very handsome was an added comfort.
 She could be herself with him, without putting shielders over her thoughts, for he didn't seem to have an opinion on how 'women' should think or talk or be, which every male you met in those days seemed to take for as their birthright. She could talk and argue with him endlessly about anything and still go back feeling closer than they started out with. 
@@ -22,6 +25,5 @@ After that day she tried to look at him more closely. That is when she slowly st
 ~ Her
 
 [>>Next](her_2.md)
-
 
 _© 2019 Shenuja Subhash_
