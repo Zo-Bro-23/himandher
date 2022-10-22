@@ -1,6 +1,6 @@
 ---
 
-layout: post
+layout: blog
 author: Subhash Gopalakrishnan
 
 ---
@@ -9,7 +9,7 @@ I eased my car right into the gate into the one available space inside. Even the
 
 We often underestimate how much state we carry within us. That thing we call consciousness is a state vector answering so many myriad questions - Who am I? Where did I park my car? Am I married? Why am I happy just now? What happened when I was 22 years old and felt lost. There are moments when life falls into a slot and you fall out of life.
 
-I wondered about "myself". What is this role I am playing? Where am I? Tripunithura .. I spot a gentleman standing near the gate. Malayalee! Did I even know Tripunithura when I was just a small boy? Once my grandmother mentioned a cousin living somewhere in Tripunithura. The whole family bumped into a city bus and hunted his house out. It was curiously a sad house, dimly lit by filament bulbs. The house obviously couldn't take all six of us. I remember sitting by a bed post in the hall eating soft dosas with some kind of a onion curry. My grandmother's cousin He looked sad and resigned. Like he had been in hiding and had been discovered. Like he had been outed in the game of life. 
+I wondered about "myself". What is this role I am playing? Where am I? Tripunithura .. I spot a gentleman standing near the gate. Malayalee! Did I even know Tripunithura when I was just a small boy? Once my grandmother mentioned a cousin living somewhere in Tripunithura. The whole family bumped into a city bus and hunted his house out. It was curiously a sad house, dimly lit by filament bulbs. The house obviously couldn't take all six of us. I remember sitting by a bed blog in the hall eating soft dosas with some kind of a onion curry. My grandmother's cousin He looked sad and resigned. Like he had been in hiding and had been discovered. Like he had been outed in the game of life. 
 
 Here I was, speaking Malayalam now, waiting to pick up my son, someone who's just like me and yet so different. Back home, I have a wife too, a very beautiful one, how did that happen? Did I fall into a slot, just like my car. Is this what one calls predestined?
 

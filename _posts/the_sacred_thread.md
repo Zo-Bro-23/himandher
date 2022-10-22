@@ -1,6 +1,6 @@
 ---
 
-layout: post
+layout: blog
 author: Subhash Gopalakrishnan
 
 ### The Sacred Thread!

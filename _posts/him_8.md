@@ -1,6 +1,6 @@
 ---
 
-layout: post
+layout: blog
 author: Subhash Gopalakrishnan
 
 ---
@@ -19,7 +19,7 @@ When the boatman was finally satisfied that the boat could be convinced to remai
 
 The Abbey was a lovely place but they couldn't enjoy it. It had been built in that remote end to escape the torment of invaders but it was no longer safe from the tourists and families. He and She sat in a corner, hoping against hope that the boatman would have recovered his cheer and will find a new strength to take them to Fingal's cave. But when he steered the boat east, He knew they were going back to the isle but did not have the strength to tell her. She was bitterly disappointed and tried to find ways for them to try again. But he had booked all legs of the journey in advance and there was no promise that the weather would improve the next day.
 
-To cheer her up, he got her an apple cider, the only thing available in the outpost. Because they had nothing to do till the evening, when the bus would go down the reverse route, they climbed up the small hill, braving the cold winds. The light was funny up there, grey and dirty blue. The wind was piercing cold and tried its best to push them off the hill. The sea looked like a gray mystery shrouded in cottons of mist. They stood together in the biting cold, ruing their fate and wondering why Fingal was so hard to visit. 
+To cheer her up, he got her an apple cider, the only thing available in the outblog. Because they had nothing to do till the evening, when the bus would go down the reverse route, they climbed up the small hill, braving the cold winds. The light was funny up there, grey and dirty blue. The wind was piercing cold and tried its best to push them off the hill. The sea looked like a gray mystery shrouded in cottons of mist. They stood together in the biting cold, ruing their fate and wondering why Fingal was so hard to visit. 
 
 _~ Him_
 
